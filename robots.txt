@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ve5os.github.io/Kugoo_Wish_02_Pro/sitemap.xml
